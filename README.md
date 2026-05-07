@@ -20,6 +20,6 @@ This project demonstrates deploying WordPress on an AWS EC2 instance running Ubu
 - Application deployment
 
 ## Screenshots
-![WordPress Installer](screenshots/wp-installer.png)
-![WordPress Dashboard](screenshots/wp-dashboard.png)
-![Site Homepage](screenshots/wp-homepage.png)
+![WordPress Installer](Installer.png)
+![WordPress Dashboard](Dashboard.png)
+![Site Homepage](Homepage.png)
